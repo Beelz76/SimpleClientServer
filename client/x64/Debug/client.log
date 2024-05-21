@@ -1,0 +1,6 @@
+﻿  client.cpp
+C:\Users\fario.DESKTOP-DPTN6L6\source\repos\testNet\client\client.cpp(21,52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\fario.DESKTOP-DPTN6L6\source\repos\testNet\client\client.cpp(27,23): warning C4244: инициализация: преобразование "std::streamsize" в "int", возможна потеря данных
+C:\Users\fario.DESKTOP-DPTN6L6\source\repos\testNet\client\client.cpp(41,52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\fario.DESKTOP-DPTN6L6\source\repos\testNet\client\client.cpp(70,26): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+  client.vcxproj -> C:\Users\fario.DESKTOP-DPTN6L6\source\repos\testNet\x64\Debug\client.exe

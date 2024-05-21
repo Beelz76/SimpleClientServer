@@ -1,0 +1,6 @@
+﻿  server.cpp
+C:\Users\fario.DESKTOP-DPTN6L6\source\repos\testNet\server\server.cpp(42,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\fario.DESKTOP-DPTN6L6\source\repos\testNet\server\server.cpp(51,50): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\fario.DESKTOP-DPTN6L6\source\repos\testNet\server\server.cpp(74,26): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+C:\Users\fario.DESKTOP-DPTN6L6\source\repos\testNet\server\server.cpp(95,26): warning C4244: =: преобразование "SOCKET" в "int", возможна потеря данных
+  server.vcxproj -> C:\Users\fario.DESKTOP-DPTN6L6\source\repos\testNet\x64\Debug\server.exe
